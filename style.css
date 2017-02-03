@@ -1,0 +1,32 @@
+.top_header {
+	text-align: center;
+	padding: 20px;
+	background-color: #333333;
+	color: white;
+	font-family: "Georgia";
+}
+
+.main_info {
+	float: left;
+	background-color: #efeee7;
+	width: 65%;
+	padding: 10px;
+	height: 400px;
+}
+
+.contact_info {
+	float: right;
+	background-color: #efeee7;
+	width: 31%;
+	padding: 10px;
+	height: 400px;
+}
+
+#image {
+	float: left;
+	padding: 20px;
+}
+
+#links {
+	color: #d21034;
+}
